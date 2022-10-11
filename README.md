@@ -9,11 +9,11 @@ My task for this project was to create a summary DataFrame of ride sharing data 
 
 It is not a surprise to see that Urban city types are higher in total fares. Urban areas historically have a higher population, therefore there will be more drivers needed to accomodate. Urban drivers equate to 5 times more drivers when compared to Suburban drivers. Rural cities having the least population amount correlates well with how they are shown on the graph. There are nearly 5 times more Suburban drivers then rural drivers. THat said, the average fare per driver in rural areas is around $25 higher when compared to Suburban and nearly $30 higher compared to Urban average fare per driver. 
 
-As you can see from the image below, Urban areas had the highest fare followed by Suburban cities. Rural remained the lowest of the bunch. We can also see that there was  a dramatic downspike in APril for for Urban and Suburban areas while Rural cities hardly had a change. 
+As you can see from the image below, Urban areas had the highest fare followed by Suburban cities. Rural remained the lowest of the bunch. We can also see that there was  a dramatic downspike in APril for for Urban and Suburban areas while Rural cities hardly had a change. Side note - for some reason my X and Y labels are cut off when the image uploads. I apologize for that. 
 
- 
 
 ![Total_Fare_by_city_type.png](https://github.com/Adam-Warrick/PyBer_Analysis/blob/main/Resources/Total_Fare_by_city_type.png)
+
 
 ## Summary
 If the fare price was adjusted slighty for Urban and Suburban rides we would see a great increase. 
